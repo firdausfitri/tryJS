@@ -6,4 +6,4 @@ Assignment
 */
 
 
-prompt("")
+var initCredit = prompt("What is your initial credit?")
